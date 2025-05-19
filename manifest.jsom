@@ -1,0 +1,8 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "type": "ERC20",
+  "decimals": 6,
+  "address": "0x7E43cAa66D2Ec12520FA628c537A3aB5027Cdc61",
+  "logoURI": "https://github.com/yourusername/trustwallet-assets/blob/main/blockchains/ethereum/assets/0xFakeAddress/logo.png"
+}
